@@ -1,13 +1,13 @@
-h2.intro {
+.intro h2 {
   color: blue;
   font-style: bolder;
 }
 
-p.intro {
+.intro p {
   color: rgb(255, 0, 8);
   font-style: italic;
 }
 
-img.intro {
+.intro img {
   width: 200px;
 }
